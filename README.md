@@ -1,14 +1,18 @@
-﻿# Isolated-HighPower-PWM-Driver
+﻿# Isolated High-Power PWM Driver
 
-Electronic hardware module designed using **Altium Designer**.
+Single-channel isolated switch.
+
+## Function
+High-speed PWM switching.
+
+## Key Specifications
+- Opto: 6N137
+- Driver: TC4420
+- MOSFET: IRFB4110
+- Protection: Snubber + TVS
 
 ## Hardware Preview
 ![Preview](preview.png)
 
-## Contents
-- Schematic
-- PCB Layout
-- 3D View
-
 ---
-Designed by **HOANG LE TRUNG KIEN**
+Designed by HOANG LE TRUNG KIEN
